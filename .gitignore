@@ -1,3 +1,5 @@
 **/__pycache__
 **/.venv
+**/_test_locations
 *.env
+*sd_pal_10bit._tes.mov
